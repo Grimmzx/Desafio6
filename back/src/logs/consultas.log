@@ -1,0 +1,48 @@
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-30T06:45:12.277Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVzQGRlc2FmaW9sYXRhbS5jb20iLCJpYXQiOjE3MzU1NDA4MTIsImV4cCI6MTczNTU0MTExMn0.R-vpTEDzjshFBlR1Wmjp4UuEcKN3MvMMfGWiOMc-GCc
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-30T06:45:12.281Z ; Respuesta: {"error":"Invalid token"}
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-30T06:45:12.284Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVzQGRlc2FmaW9sYXRhbS5jb20iLCJpYXQiOjE3MzU1NDA4MTIsImV4cCI6MTczNTU0MTExMn0.R-vpTEDzjshFBlR1Wmjp4UuEcKN3MvMMfGWiOMc-GCc
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-30T06:45:12.286Z ; Respuesta: {"error":"Invalid token"}
+Ruta consultada: /usuarios ; Método: POST ; Fecha: 2024-12-30T06:45:33.976Z ; Ruta sin credenciales
+Ruta consultada: /usuarios ; Método: POST ; Fecha: 2024-12-30T06:45:33.976Z ; Parametros Body :  {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"Python"} 
+Ruta: /usuarios ; Método: POST ; Fecha: 2024-12-30T06:45:34.101Z ; Respuesta: {"error":"Correo ya registrado."}
+Ruta: /usuarios ; Método: POST ; Fecha: 2024-12-30T06:45:34.101Z ; Respuesta: {"error":"Correo ya registrado."}
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-30T06:45:42.626Z ; Ruta sin credenciales
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-30T06:45:42.626Z ; Parametros Body :  {"email":"docente@desafiolatam.com","password":"123456"} 
+Ruta: /login ; Método: POST ; Fecha: 2024-12-30T06:45:42.699Z ; Respuesta: {"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNTU0MTE0MiwiZXhwIjoxNzM1NTQxNDQyfQ.IFq7zMa__g2NtZwcKlfKy961SyHV4vc8QXLCfYdd4m4","email":"docente@desafiolatam.com","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-30T06:45:44.729Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNTU0MTE0MiwiZXhwIjoxNzM1NTQxNDQyfQ.IFq7zMa__g2NtZwcKlfKy961SyHV4vc8QXLCfYdd4m4
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-30T06:45:44.732Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Full Stack Developer","lenguage":"JavaScript"}]
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-30T06:45:44.735Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNTU0MTE0MiwiZXhwIjoxNzM1NTQxNDQyfQ.IFq7zMa__g2NtZwcKlfKy961SyHV4vc8QXLCfYdd4m4
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-30T06:45:44.737Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Full Stack Developer","lenguage":"JavaScript"}]
+Ruta consultada: /usuarios ; Método: POST ; Fecha: 2024-12-30T06:46:03.402Z ; Ruta sin credenciales
+Ruta consultada: /usuarios ; Método: POST ; Fecha: 2024-12-30T06:46:03.402Z ; Parametros Body :  {"email":"docentes@desafiolatam.com","password":"123456","rol":"Backend Developer","lenguage":"Python"} 
+Ruta: /usuarios ; Método: POST ; Fecha: 2024-12-30T06:46:03.503Z ; Respuesta: {"error":"Correo ya registrado."}
+Ruta: /usuarios ; Método: POST ; Fecha: 2024-12-30T06:46:03.503Z ; Respuesta: {"error":"Correo ya registrado."}
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-30T06:46:13.514Z ; Ruta sin credenciales
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-30T06:46:13.514Z ; Parametros Body :  {"email":"docentes@desafiolatam.com","password":"123456"} 
+Ruta: /login ; Método: POST ; Fecha: 2024-12-30T06:46:13.619Z ; Respuesta: {"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVzQGRlc2FmaW9sYXRhbS5jb20iLCJpYXQiOjE3MzU1NDExNzMsImV4cCI6MTczNTU0MTQ3M30.duGuqIHIcYqObIB_j-4LyYeVTM9OXbwjYmLKoHQvVLI","email":"docentes@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-30T06:46:16.042Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVzQGRlc2FmaW9sYXRhbS5jb20iLCJpYXQiOjE3MzU1NDExNzMsImV4cCI6MTczNTU0MTQ3M30.duGuqIHIcYqObIB_j-4LyYeVTM9OXbwjYmLKoHQvVLI
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-30T06:46:16.045Z ; Respuesta: [{"email":"docentes@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-30T06:46:16.047Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVzQGRlc2FmaW9sYXRhbS5jb20iLCJpYXQiOjE3MzU1NDExNzMsImV4cCI6MTczNTU0MTQ3M30.duGuqIHIcYqObIB_j-4LyYeVTM9OXbwjYmLKoHQvVLI
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-30T06:46:16.049Z ; Respuesta: [{"email":"docentes@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta consultada: /usuarios ; Método: POST ; Fecha: 2024-12-30T06:46:32.143Z ; Ruta sin credenciales
+Ruta consultada: /usuarios ; Método: POST ; Fecha: 2024-12-30T06:46:32.143Z ; Parametros Body :  {"email":"yoanriba@gmail.com","password":"Yoan123","rol":"Frontend Developer","lenguage":"Ruby"} 
+Ruta: /usuarios ; Método: POST ; Fecha: 2024-12-30T06:46:32.241Z ; Respuesta: {"id":4,"email":"yoanriba@gmail.com","password":"$2a$10$8LnCRSjUPh9LvcjBCWJyIOrQ.Ydrd1uw262efMud4XP1Xka2ETxgO","rol":"Frontend Developer","lenguage":"Ruby"}
+Ruta: /usuarios ; Método: POST ; Fecha: 2024-12-30T06:46:32.242Z ; Respuesta: {"id":4,"email":"yoanriba@gmail.com","password":"$2a$10$8LnCRSjUPh9LvcjBCWJyIOrQ.Ydrd1uw262efMud4XP1Xka2ETxgO","rol":"Frontend Developer","lenguage":"Ruby"}
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-30T06:46:39.755Z ; Ruta sin credenciales
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-30T06:46:39.755Z ; Parametros Body :  {"email":"yoanriba@gmail.com","password":"Yoan123"} 
+Ruta: /login ; Método: POST ; Fecha: 2024-12-30T06:46:39.824Z ; Respuesta: {"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InlvYW5yaWJhQGdtYWlsLmNvbSIsImlhdCI6MTczNTU0MTE5OSwiZXhwIjoxNzM1NTQxNDk5fQ._R_T9BMZpLLQ_8iPdmoATY-XByxBP6q3dQWjuvsSj_s","email":"yoanriba@gmail.com","rol":"Frontend Developer","lenguage":"Ruby"}
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-30T06:46:42.401Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InlvYW5yaWJhQGdtYWlsLmNvbSIsImlhdCI6MTczNTU0MTE5OSwiZXhwIjoxNzM1NTQxNDk5fQ._R_T9BMZpLLQ_8iPdmoATY-XByxBP6q3dQWjuvsSj_s
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-30T06:46:42.404Z ; Respuesta: [{"email":"yoanriba@gmail.com","rol":"Frontend Developer","lenguage":"Ruby"}]
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-30T06:46:42.406Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InlvYW5yaWJhQGdtYWlsLmNvbSIsImlhdCI6MTczNTU0MTE5OSwiZXhwIjoxNzM1NTQxNDk5fQ._R_T9BMZpLLQ_8iPdmoATY-XByxBP6q3dQWjuvsSj_s
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-30T06:46:42.409Z ; Respuesta: [{"email":"yoanriba@gmail.com","rol":"Frontend Developer","lenguage":"Ruby"}]
+Ruta consultada: /usuarios ; Método: POST ; Fecha: 2024-12-30T06:50:43.507Z ; Ruta sin credenciales
+Ruta consultada: /usuarios ; Método: POST ; Fecha: 2024-12-30T06:50:43.507Z ; Parametros Body :  {"email":"docente@desafiolatam.com","password":"123456","rol":"Backend Developer","lenguage":"Ruby"} 
+Ruta: /usuarios ; Método: POST ; Fecha: 2024-12-30T06:50:43.607Z ; Respuesta: {"error":"Correo ya registrado."}
+Ruta: /usuarios ; Método: POST ; Fecha: 2024-12-30T06:50:43.608Z ; Respuesta: {"error":"Correo ya registrado."}
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-30T06:50:45.695Z ; Ruta sin credenciales
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-30T06:50:45.695Z ; Parametros Body :  {"email":"docente@desafiolatam.com","password":"123456"} 
+Ruta: /login ; Método: POST ; Fecha: 2024-12-30T06:50:45.767Z ; Respuesta: {"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNTU0MTQ0NSwiZXhwIjoxNzM1NTQxNzQ1fQ.ffGYwlZwlcSx4POMHTOxkBHfESd7yw4RQqn_kQ-lXbU","email":"docente@desafiolatam.com","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-30T06:50:47.209Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNTU0MTQ0NSwiZXhwIjoxNzM1NTQxNzQ1fQ.ffGYwlZwlcSx4POMHTOxkBHfESd7yw4RQqn_kQ-lXbU
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-30T06:50:47.211Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Full Stack Developer","lenguage":"JavaScript"}]
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-30T06:50:47.213Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNTU0MTQ0NSwiZXhwIjoxNzM1NTQxNzQ1fQ.ffGYwlZwlcSx4POMHTOxkBHfESd7yw4RQqn_kQ-lXbU
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-30T06:50:47.216Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Full Stack Developer","lenguage":"JavaScript"}]
